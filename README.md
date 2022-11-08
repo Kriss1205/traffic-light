@@ -1,4 +1,4 @@
-Check  out my Traffic Light Project!
+<strong><i>Check  out my Traffic Light Project!</i></strong>
 https://github.com/Kriss1205/traffic-light.git
 <br>
 # Hello World with React boilerplate
