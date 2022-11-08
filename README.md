@@ -1,6 +1,6 @@
 <strong><i>Check  out my Traffic Light Project!</i></strong>
 <br>
-traffic-light-seven.vercel.app
+# https://traffic-light-seven.vercel.app
 <br>
 # Hello World with React boilerplate
 <p>
