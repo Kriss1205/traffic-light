@@ -1,6 +1,6 @@
 <strong><i>Check  out my Traffic Light Project!</i></strong>
 <br>
-# https://github.com/Kriss1205/traffic-light.git
+# traffic-light-seven.vercel.app
 <br>
 # Hello World with React boilerplate
 <p>
